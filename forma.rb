@@ -55,4 +55,4 @@ end
 # Shape.new.print_area
 # Rectangle.new(...).print_area
 Circle.new(1).print_area
-# Square.new(...).print_area
+Square.new(...).print_area
